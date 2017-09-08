@@ -1,6 +1,6 @@
 var index = require("./tests.js")
 
-var name = "Susan"
+var name = "Joe"
 var height = "74"
 
 
